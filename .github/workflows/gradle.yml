@@ -20,6 +20,6 @@ jobs:
     - name: Grant execute permission for gradlew
       run: chmod +x gradlew
     - name: Lint with gradlew
-      run: ./gradlew lintDebug -wS
+      run: ./gradlew lintDebug -S --warning-mode all
     - name: Test with gradlew
       run: ./gradlew test --stacktrace

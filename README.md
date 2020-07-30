@@ -2,7 +2,7 @@
 
 GridMenu is a simple-but-customizable view consisted list of menu arranged in grid-fashioned way.
 
-[![](https://jitpack.io/v/bccfilkom/gridmenu.svg)](https://jitpack.io/#bccfilkom/gridmenu)
+[![](https://jitpack.io/v/bccfilkom/gridmenu.svg)](https://jitpack.io/#bccfilkom/gridmenu) ![Gridmenu Action](https://github.com/Aldiwildan77/gridmenu/workflows/Gridmenu%20Action/badge.svg?branch=master)
 
 <img src="sample.png" title="Grid Menu"/>
 
